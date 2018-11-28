@@ -1,3 +1,3 @@
 # Phase separation journal club - MIT 
 
-A backup of resources, slides, and data from joint journal club meetings.
+A backup of resources, slides, and data from journal club meetings.
